@@ -1,0 +1,15 @@
+/node_modules
+/public/css
+/public/js
+/public/storage
+/storage/*.key
+/vendor
+/mysql
+/.idea
+/.vagrant
+/.discovery
+/storage/debugbar
+Homestead.json
+Homestead.yaml
+npm-debug.log
+.env
